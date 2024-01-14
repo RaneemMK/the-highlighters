@@ -1,0 +1,58 @@
+[
+    {
+      "service": "Pedicure",
+      "price": 100,
+      "gender": "female",
+      "url":"https://nirvana.lemonsqueezy.com/checkout/buy/6357c0eb-48a0-4988-ad9d-4d765c512aae"
+    },
+    {
+      "service": "Manicure",
+      "price": 100,
+      "gender": "female",
+      "url":"https://nirvana.lemonsqueezy.com/checkout/buy/45c463d4-3afe-4457-be02-0df0291a0a4d"
+    },
+    {
+      "service": "Pedicure & Manicure",
+      "price": 150,
+      "gender": "female",
+      "url":"https://nirvana.lemonsqueezy.com/checkout/buy/ae51a1f8-35db-4920-92d1-12d1d8b6fd7f"
+    },
+    {
+      "service": "Acrylic / Gel Nails",
+      "price": 400,
+      "gender": "female",
+      "url":"https://nirvana.lemonsqueezy.com/checkout/buy/e967e6c0-1aca-4090-84f8-9220c5c3bfd3"
+    },
+    {
+      "service": "Nail Polish / Art",
+      "price": 50,
+      "gender": "female",
+      "url":"https://nirvana.lemonsqueezy.com/checkout/buy/693492f6-bdd6-4be0-b310-59e3c8b1d67a"
+    },
+    {
+      "service": "Pedicure",
+      "price": 100,
+      "gender": "male",
+      "url":"https://nirvana.lemonsqueezy.com/checkout/buy/69299555-d6e7-419d-9ae3-fe4b985c9959"
+    },
+    {
+        "service": "Manicure",
+        "price": 100,
+        "gender": "male",
+        "url":"https://nirvana.lemonsqueezy.com/checkout/buy/a5aedcab-963a-4882-a229-ef3d79c5e853"
+    },
+    {
+        "service": "Manicure & Pedicure",
+        "price": 150,
+        "gender": "male",
+        "url":"https://nirvana.lemonsqueezy.com/checkout/buy/70edac18-6398-422e-bda0-d2ba98c8bd32"
+    },
+    {
+        "service": "Hand spa",
+        "price": 50,
+        "gender": "male",
+        "url":"https://nirvana.lemonsqueezy.com/checkout/buy/5833c48b-4337-43f7-a983-2af4b54685ca"
+    }
+
+
+]
